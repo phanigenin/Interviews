@@ -1,2 +1,2 @@
 # Interviews
-Interview questions
+Bunch of exercises done for interviews
