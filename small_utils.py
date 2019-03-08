@@ -39,10 +39,6 @@ def binary2decimal2(n):
 
 
 
-
-
-
-
 #res = binary2decimal('100')
 res = binary2decimal2('1010')
 print(res)
